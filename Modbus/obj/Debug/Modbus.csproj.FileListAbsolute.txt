@@ -1,0 +1,9 @@
+C:\Users\Naca\Source\Repos\aus\dCom\Modbus\bin\Debug\Modbus.dll
+C:\Users\Naca\Source\Repos\aus\dCom\Modbus\bin\Debug\Modbus.pdb
+C:\Users\Naca\Source\Repos\aus\dCom\Modbus\bin\Debug\Common.dll
+C:\Users\Naca\Source\Repos\aus\dCom\Modbus\bin\Debug\Common.pdb
+C:\Users\Naca\Source\Repos\aus\dCom\Modbus\obj\Debug\Modbus.csproj.AssemblyReference.cache
+C:\Users\Naca\Source\Repos\aus\dCom\Modbus\obj\Debug\Modbus.csproj.CoreCompileInputs.cache
+C:\Users\Naca\Source\Repos\aus\dCom\Modbus\obj\Debug\Modbus.csproj.Up2Date
+C:\Users\Naca\Source\Repos\aus\dCom\Modbus\obj\Debug\Modbus.dll
+C:\Users\Naca\Source\Repos\aus\dCom\Modbus\obj\Debug\Modbus.pdb
